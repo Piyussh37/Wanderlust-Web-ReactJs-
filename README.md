@@ -27,6 +27,7 @@ To get started with Wanderlust Web, follow these steps:
 To run the application locally, use the following command:
 
 npm run dev
+
 Open your browser and navigate to http://localhost:3000 to view the application.
 
 ## Features
@@ -41,32 +42,32 @@ Open your browser and navigate to http://localhost:3000 to view the application.
 ## Technologies
 Wanderlust Web is built using the following technologies:
 
-React: A JavaScript library for building user interfaces.
+**React**: A JavaScript library for building user interfaces.
 
-Vite: A fast build tool and development server for modern web projects.
+**Vite**: A fast build tool and development server for modern web projects.
 
-Tailwind CSS: A utility-first CSS framework for styling.
+**Tailwind CSS**: A utility-first CSS framework for styling.
 
-React Router: A routing library for React applications.
+**React Router**: A routing library for React applications.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to Wanderlust Web, please follow these steps:
 
-1.Fork the repository.
+**1.Fork the repository.**
 
-2.Create a new branch:
+**2.Create a new branch:**
 
 git checkout -b feature/your-feature-name
 
-3.Commit your changes:
+**3.Commit your changes:**
 
 git commit -m "Add your commit message"
 
-4.Push to the branch:
+**4.Push to the branch:**
 
 git push origin feature/your-feature-name
 
-5.Open a pull request.
+**5.Open a pull request.**
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
